@@ -21,7 +21,7 @@ public class CtfAscii {
         int ascii, toplam = 0;
         int enbuyuk = 10;
         try {
-            FileReader fr = new FileReader("C:\\Users\\ysfna\\Downloads\\SiberyildizIndirilenler\\strings.txt");
+            FileReader fr = new FileReader("\\strings.txt");
             BufferedReader br = new BufferedReader(fr);
 
             String str;
